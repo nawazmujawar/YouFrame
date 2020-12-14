@@ -18,4 +18,4 @@ npm start
 
 ## Output
 
-![output](https://github.com/nawazmujawar/YouFrame/blob/main/src/assets/galleryApp.gif)
+![output](./assets/galleryApp.gif)
