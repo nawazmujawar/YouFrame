@@ -1,9 +1,5 @@
-@font-face {
-  font-family: "verdana";
-  font-style: normal;
-  font-weight: 400;
-  src: local("verdana"), url("./fonts/verdana.ttf") format(".ttf"); /* IE6-IE8 */
-}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
 body {
-  font-family: "Open Sans";
+  font-family: "Roboto", sans-serif;
 }
