@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "verdana";
+  font-style: normal;
+  font-weight: 400;
+  src: local("verdana"), url("./fonts/verdana.ttf") format(".ttf"); /* IE6-IE8 */
+}
+body {
+  font-family: "Open Sans";
+}
